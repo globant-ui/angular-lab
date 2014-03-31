@@ -10,6 +10,7 @@ This lab is structured as a set of exercises leading to the construction of a we
 Please fork this repository, and send a PR as soon as the lab is finished. Afterwards, the PR will be evaluated by an architect or senior developer. 
 
 ## Required Reading
+- A quick overview: http://www.youtube.com/watch?v=i9MHigUZKEM
 - AngularJS Developer Guide: http://docs.angularjs.org/guide
 - Angular’s FAQ: https://github.com/angular/angular.js/wiki/FAQ
 - Collection of curated AngularJS-related links: https://github.com/jmcunningham/AngularJS-Learning
