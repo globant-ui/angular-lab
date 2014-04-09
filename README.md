@@ -22,11 +22,15 @@ Please fork this repository, and send a PR as soon as the lab is finished. After
 - AngularJS Best Practices: I’ve Been Doing It Wrong! Part 1 of 3 http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/
 - AngularJS Best Practices: I’ve Been Doing It Wrong! Part 2 of 3 http://www.artandlogic.com/blog/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-2-of-3/
 - AngularJS Best Practices: I’ve Been Doing It Wrong! Part 3 of 3 http://www.artandlogic.com/blog/2013/05/angularjs-best-practices-ive-been-doing-it-wrong-part-3-of-3/
-- Best Practice Recommendations for Angular App Structure (official document) https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
 
 ### Angular's Anti-patterns
 - From Angular's wiki https://github.com/angular/angular.js/wiki/Anti-Patterns
 - AngularJS: 6 Common Pitfalls Using Scopes http://thenittygritty.co/angularjs-pitfalls-using-scopes
+- Get Your Hands Dirty Refactoring in AngularJS http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/
+
+### Modularization & Code Structure
+- Best Practice Recommendations for Angular App Structure (official document) https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
+- 13 Steps to AngularJS Modularization http://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/
 
 ## Examples
 - Official angular boilerplate https://github.com/angular-app/angular-app
