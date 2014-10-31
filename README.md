@@ -27,6 +27,7 @@ Please fork this repository, and send a PR as soon as the lab is finished. After
 - From Angular's wiki https://github.com/angular/angular.js/wiki/Anti-Patterns
 - AngularJS: 6 Common Pitfalls Using Scopes http://thenittygritty.co/angularjs-pitfalls-using-scopes
 - Get Your Hands Dirty Refactoring in AngularJS http://blog.safaribooksonline.com/2014/04/08/refactoring-angularjs-get-hands-filthy/
+- The Top 10 Mistakes AngularJS Developers Make http://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
 
 ### Modularization & Code Structure
 - Best Practice Recommendations for Angular App Structure (official document) https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
